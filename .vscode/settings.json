@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "stickers/src",
+        "sticker/src/main/java/com/example"
+    ]
+}
